@@ -1,6 +1,7 @@
 ## Hi I'm Keito
 
-![snake gif](https://github.com/mori-kei/mori-kei/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mori-kei/mori-kei/blob/output/github-contribution-grid-snake.gif)
+
 <h4 align="left">Programming Languages</h4>
 <img src="https://skillicons.dev/icons?i=js,ts,go,php">
 
