@@ -1,6 +1,6 @@
 ## Hi I'm Keito
 
-![snake gif](https://github.com/mori-kei/mori-kei/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mori-kei/mori-kei/output/github-contribution-grid-snake.gif)
 
 
 [![](https://raw.githubusercontent.com/mori-kei/mori-kei/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mori-kei/mori-kei/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
