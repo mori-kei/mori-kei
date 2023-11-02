@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/mori-kei/mori-kei/main/profile-summary-card-output/nord_bright/4-productive-time.svg)
-```
-
-    
