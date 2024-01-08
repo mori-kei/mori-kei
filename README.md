@@ -9,7 +9,7 @@
 
 <h4 align="left">Languages and Tools</h4>
 <img src="https://skillicons.dev/icons?i=js,ts,go,php,react,laravel,html,css,sass,tailwind">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,firebase,heroku,github,git,postman,linux,xd,figma">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,firebase,heroku,github,git,postman,xd,figma">
 
 
 
