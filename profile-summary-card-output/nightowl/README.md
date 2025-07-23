@@ -35,26 +35,6 @@
 
 ---
 
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/mori-kei/mori-kei/main/profile-summary-card-output/nightowl/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/mori-kei/mori-kei/main/profile-summary-card-output/nightowl/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
